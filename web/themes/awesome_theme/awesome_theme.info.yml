@@ -1,0 +1,16 @@
+name: Awesome Theme
+description: This is awesome theme
+bash theme: classy
+core: 8.x
+type: theme
+
+libraries:
+  - awesome_theme/global-style
+
+
+regions:
+  top_bar: Top Bar
+  primary_menu: Primary Menu
+  content: Content
+  contact_us: Contact Us
+  footer: Footer

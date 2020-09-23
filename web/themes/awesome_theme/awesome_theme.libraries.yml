@@ -1,0 +1,18 @@
+global-style:
+  css:
+    theme:
+      css/animate.min.css: {}
+      css/bootstrap.min.css: {}
+      css/font-awesome.min.css: {}
+      css/templatemo-style.css: {}
+
+  js:
+    js/jquery.js: {}
+    js/bootstrap.min.js: {}
+    js/jquery.singlePageNav.min.js: {}
+    js/typed.js: {}
+    js/wow.min.js: {}
+    js/custom.js: {}
+  
+  dependencies:
+    - core/jquery
